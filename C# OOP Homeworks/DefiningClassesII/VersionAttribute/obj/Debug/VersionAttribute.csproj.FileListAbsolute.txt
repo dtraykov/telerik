@@ -1,0 +1,6 @@
+C:\Users\buddi\Documents\GitHub\telerik\C# OOP Homeworks\DefiningClassesII\VersionAttribute\bin\Debug\VersionAttribute.exe.config
+C:\Users\buddi\Documents\GitHub\telerik\C# OOP Homeworks\DefiningClassesII\VersionAttribute\bin\Debug\VersionAttribute.exe
+C:\Users\buddi\Documents\GitHub\telerik\C# OOP Homeworks\DefiningClassesII\VersionAttribute\bin\Debug\VersionAttribute.pdb
+C:\Users\buddi\Documents\GitHub\telerik\C# OOP Homeworks\DefiningClassesII\VersionAttribute\obj\Debug\VersionAttribute.csprojResolveAssemblyReference.cache
+C:\Users\buddi\Documents\GitHub\telerik\C# OOP Homeworks\DefiningClassesII\VersionAttribute\obj\Debug\VersionAttribute.exe
+C:\Users\buddi\Documents\GitHub\telerik\C# OOP Homeworks\DefiningClassesII\VersionAttribute\obj\Debug\VersionAttribute.pdb

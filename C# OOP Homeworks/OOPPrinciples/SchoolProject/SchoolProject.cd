@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SchoolProject.School">
+    <Position X="7.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAFAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>School.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="classes" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="SchoolProject.Person">
+    <Position X="1.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAABAAAAEAAAAAAAAAAAAAAAAAAAACAAAAAg=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolProject.Student">
+    <Position X="1.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAEAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolProject.Teacher">
+    <Position X="4.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAIAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Teacher.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="discipline" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="SchoolProject.Disciplines">
+    <Position X="7.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAUAEAAFAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Disciplines.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchoolProject.SchoolClass">
+    <Position X="4" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAMAAAAAAAAAAAAEAAAAAAAAAAAAAABAAAAAQAACAAI=</HashCode>
+      <FileName>SchoolClass.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="students" />
+      <Field Name="teachers" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
