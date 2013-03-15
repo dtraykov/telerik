@@ -1,6 +1,0 @@
-C:\Users\buddi\Documents\GitHub\telerik\C# OOP Homeworks\DefiningClassesII\GenericList\bin\Debug\GenericClasses.exe.config
-C:\Users\buddi\Documents\GitHub\telerik\C# OOP Homeworks\DefiningClassesII\GenericList\bin\Debug\GenericClasses.exe
-C:\Users\buddi\Documents\GitHub\telerik\C# OOP Homeworks\DefiningClassesII\GenericList\bin\Debug\GenericClasses.pdb
-C:\Users\buddi\Documents\GitHub\telerik\C# OOP Homeworks\DefiningClassesII\GenericList\obj\Debug\GenericList.csprojResolveAssemblyReference.cache
-C:\Users\buddi\Documents\GitHub\telerik\C# OOP Homeworks\DefiningClassesII\GenericList\obj\Debug\GenericClasses.exe
-C:\Users\buddi\Documents\GitHub\telerik\C# OOP Homeworks\DefiningClassesII\GenericList\obj\Debug\GenericClasses.pdb

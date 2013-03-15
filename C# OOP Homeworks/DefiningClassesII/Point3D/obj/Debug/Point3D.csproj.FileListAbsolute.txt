@@ -1,6 +1,0 @@
-C:\Users\buddi\Documents\GitHub\telerik\C# OOP Homeworks\DefiningClassesII\Point3D\bin\Debug\Point3D.exe.config
-C:\Users\buddi\Documents\GitHub\telerik\C# OOP Homeworks\DefiningClassesII\Point3D\bin\Debug\Point3D.exe
-C:\Users\buddi\Documents\GitHub\telerik\C# OOP Homeworks\DefiningClassesII\Point3D\bin\Debug\Point3D.pdb
-C:\Users\buddi\Documents\GitHub\telerik\C# OOP Homeworks\DefiningClassesII\Point3D\obj\Debug\Point3D.csprojResolveAssemblyReference.cache
-C:\Users\buddi\Documents\GitHub\telerik\C# OOP Homeworks\DefiningClassesII\Point3D\obj\Debug\Point3D.exe
-C:\Users\buddi\Documents\GitHub\telerik\C# OOP Homeworks\DefiningClassesII\Point3D\obj\Debug\Point3D.pdb

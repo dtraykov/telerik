@@ -1,6 +1,0 @@
-C:\Users\buddi\Documents\GitHub\telerik\C# OOP Homeworks\DefiningClassesII\GenericMatrix\bin\Debug\GenericMatrix.exe.config
-C:\Users\buddi\Documents\GitHub\telerik\C# OOP Homeworks\DefiningClassesII\GenericMatrix\bin\Debug\GenericMatrix.exe
-C:\Users\buddi\Documents\GitHub\telerik\C# OOP Homeworks\DefiningClassesII\GenericMatrix\bin\Debug\GenericMatrix.pdb
-C:\Users\buddi\Documents\GitHub\telerik\C# OOP Homeworks\DefiningClassesII\GenericMatrix\obj\Debug\GenericMatrix.csprojResolveAssemblyReference.cache
-C:\Users\buddi\Documents\GitHub\telerik\C# OOP Homeworks\DefiningClassesII\GenericMatrix\obj\Debug\GenericMatrix.exe
-C:\Users\buddi\Documents\GitHub\telerik\C# OOP Homeworks\DefiningClassesII\GenericMatrix\obj\Debug\GenericMatrix.pdb
