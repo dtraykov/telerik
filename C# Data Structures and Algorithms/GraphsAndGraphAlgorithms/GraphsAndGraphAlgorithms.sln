@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendsOfPesho", "FriendsOfPesho\FriendsOfPesho.csproj", "{DB6F5D23-413B-44DC-9925-7E329A25DF8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salaries", "Salaries\Salaries.csproj", "{5445E11A-8157-469C-8956-E87D2C86B67D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimizeTheCostForCables", "MinimizeTheCostForCables\MinimizeTheCostForCables.csproj", "{BD3DB85B-E191-4B45-9F37-3E28B2C3DC37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimizeTheCostForCablesBgcoder", "MinimizeTheCostForCablesBgcoder\MinimizeTheCostForCablesBgcoder.csproj", "{DAF559DC-C7F8-4555-A8AE-18142BC7D8D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB6F5D23-413B-44DC-9925-7E329A25DF8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB6F5D23-413B-44DC-9925-7E329A25DF8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB6F5D23-413B-44DC-9925-7E329A25DF8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB6F5D23-413B-44DC-9925-7E329A25DF8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5445E11A-8157-469C-8956-E87D2C86B67D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5445E11A-8157-469C-8956-E87D2C86B67D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5445E11A-8157-469C-8956-E87D2C86B67D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5445E11A-8157-469C-8956-E87D2C86B67D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD3DB85B-E191-4B45-9F37-3E28B2C3DC37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD3DB85B-E191-4B45-9F37-3E28B2C3DC37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD3DB85B-E191-4B45-9F37-3E28B2C3DC37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD3DB85B-E191-4B45-9F37-3E28B2C3DC37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAF559DC-C7F8-4555-A8AE-18142BC7D8D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF559DC-C7F8-4555-A8AE-18142BC7D8D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAF559DC-C7F8-4555-A8AE-18142BC7D8D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAF559DC-C7F8-4555-A8AE-18142BC7D8D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

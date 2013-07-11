@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingAndSerachingAlgorithms", "SortingAndSerachingAlgorithms\SortingAndSerachingAlgorithms.csproj", "{7E94E6F4-E99F-43E5-97EB-376CF927610C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingAndSerachingAlgorithmsTests", "SortingAndSerachingAlgorithmsTests\SortingAndSerachingAlgorithmsTests.csproj", "{5D319A1B-8D9B-4F33-8ECE-7AEF54CFD2E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E94E6F4-E99F-43E5-97EB-376CF927610C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E94E6F4-E99F-43E5-97EB-376CF927610C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E94E6F4-E99F-43E5-97EB-376CF927610C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E94E6F4-E99F-43E5-97EB-376CF927610C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D319A1B-8D9B-4F33-8ECE-7AEF54CFD2E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D319A1B-8D9B-4F33-8ECE-7AEF54CFD2E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D319A1B-8D9B-4F33-8ECE-7AEF54CFD2E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D319A1B-8D9B-4F33-8ECE-7AEF54CFD2E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

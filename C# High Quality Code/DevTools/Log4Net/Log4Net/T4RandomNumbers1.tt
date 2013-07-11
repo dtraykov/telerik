@@ -1,0 +1,18 @@
+﻿<#@ template debug="false" hostspecific="false" language="C#" #>
+<#@ assembly name="System.Core" #>
+<#@ import namespace="System.Text" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ import namespace="System.Linq" #>
+<#@ output extension=".txt" #>
+<# 
+Random Rand=new Random();
+
+//generates 50 numbers from 0 to 100
+for (int counter = 0; counter < 50; counter++)
+{
+int number=Rand.Next(0,101);
+#>
+<#=    number#>,
+<# 
+}
+#>

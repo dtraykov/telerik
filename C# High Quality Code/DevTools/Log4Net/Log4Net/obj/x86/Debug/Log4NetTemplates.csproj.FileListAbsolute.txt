@@ -1,0 +1,7 @@
+C:\Users\buddi\Downloads\HighQualityCode-master\Dev_Tools\Log4Net\Log4Net\bin\Debug\_01.Log4Net.exe.config
+C:\Users\buddi\Downloads\HighQualityCode-master\Dev_Tools\Log4Net\Log4Net\bin\Debug\_01.Log4Net.exe
+C:\Users\buddi\Downloads\HighQualityCode-master\Dev_Tools\Log4Net\Log4Net\bin\Debug\_01.Log4Net.pdb
+C:\Users\buddi\Downloads\HighQualityCode-master\Dev_Tools\Log4Net\Log4Net\bin\Debug\log4net.dll
+C:\Users\buddi\Downloads\HighQualityCode-master\Dev_Tools\Log4Net\Log4Net\obj\x86\Debug\Log4NetTemplates.csprojResolveAssemblyReference.cache
+C:\Users\buddi\Downloads\HighQualityCode-master\Dev_Tools\Log4Net\Log4Net\obj\x86\Debug\_01.Log4Net.exe
+C:\Users\buddi\Downloads\HighQualityCode-master\Dev_Tools\Log4Net\Log4Net\obj\x86\Debug\_01.Log4Net.pdb

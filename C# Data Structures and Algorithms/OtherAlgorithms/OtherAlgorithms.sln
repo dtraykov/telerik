@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinSet", "CoinSet\CoinSet.csproj", "{65F25FEB-3A58-47F1-BF2A-393261D8C004}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointInsideTriangle", "PointInsideTriangle\PointInsideTriangle.csproj", "{21239B5C-3B46-49DA-B3FD-5823582EAE98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65F25FEB-3A58-47F1-BF2A-393261D8C004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F25FEB-3A58-47F1-BF2A-393261D8C004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F25FEB-3A58-47F1-BF2A-393261D8C004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F25FEB-3A58-47F1-BF2A-393261D8C004}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21239B5C-3B46-49DA-B3FD-5823582EAE98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21239B5C-3B46-49DA-B3FD-5823582EAE98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21239B5C-3B46-49DA-B3FD-5823582EAE98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21239B5C-3B46-49DA-B3FD-5823582EAE98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

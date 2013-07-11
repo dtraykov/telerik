@@ -1,0 +1,1 @@
+C:\Users\buddi\Documents\Visual Studio 2012\Telerik\HQC\CodeFormatting\CodeFormattingCSharp\CodeFormatting\CodeFormatting\bin\Debug\CodeFormatting.exe.config
